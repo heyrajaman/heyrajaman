@@ -17,7 +17,10 @@
   <a href="https://github.com/heyrajaman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=heyrajaman&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 
 ## 🧠 About Me
 
@@ -67,10 +70,6 @@ Tech: Vanilla JS, OpenWeatherMap API, Async/Await
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heyrajaman&show_icons=true&theme=tokyonight" alt="aman stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajaman&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrajaman&theme=tokyonight" alt="streak stats" height="160"/>
 </p>
 
 ---
